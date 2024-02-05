@@ -1,11 +1,5 @@
 import random
-# 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 , 10, 10, 10
-# print(f"        Your final hand: {user_cards}, final score: {user_score}")
-#         print(f"        Computer's final hand {computer_cards},, final score: {computer_score}")
-#         print(compare(user_score, computer_score))
-
 import os
-
 from art import logo
 
 def deal_card():
